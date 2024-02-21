@@ -1,5 +1,8 @@
 # pdf-editor
-Drag and drop builder for JavaScript
+Drag and drop PDF builder for JavaScript
 
 Awesome PDF editor, the result will become JSON.
-COMING SOON!
+
+Note: The rendering service will be separated
+
+COMING SOON!!!
