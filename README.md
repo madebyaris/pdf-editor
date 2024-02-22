@@ -9,3 +9,7 @@ In the meantime, you can use this service:
 https://pspdfkit.com/pdf-sdk/web/pdf-generation/
 
 COMING SOON!!!
+
+
+Referance:
+https://www.a4-size.com/a4-size-in-pixels/?size=a4&unit=px&ppi=150
